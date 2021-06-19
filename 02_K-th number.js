@@ -1,4 +1,4 @@
-function solution(array, commands) {
+function solution(array, commands) { 
     var answer = [];
     let arr = [];
     for(let i=0; i<commands.length; i++){
